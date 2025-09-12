@@ -51,7 +51,7 @@
   _Repo:_ <https://github.com/PAtreju/IdeaLab>
 - **File‑Cipher** — Python app for quick file encryption & upload to Google Drive.  
   _Repo:_ <https://github.com/PAtreju/File-Cipher>
-- **System powiadomień** — scraper + notifier for catering; sends automatic Discord reminders.  
+- **Lunch reminder** — scraper + notifier for catering; sends automatic Discord reminders.  
   _Repo:_ <https://github.com/PAtreju/odibai_scraper>
 
 ### 📌 Pinned repo cards
