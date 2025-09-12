@@ -55,24 +55,21 @@
   _Repo:_ <https://github.com/PAtreju/odibai_scraper>
 
 ### 📌 Pinned repo cards
-<p align="center">
-  <p>
-    <a href="https://github.com/PAtreju/Portfolio">
-      <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=Portfolio&theme=tokyonight" />
-    </a>
-    <a align="center" href="https://github.com/PAtreju/IdeaLab">
-      <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=IdeaLab&theme=tokyonight" />
-    </a>
-  </p>
-  <p lign="center" >
-    <a href="https://github.com/PAtreju/File-Cipher">
-      <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=File-Cipher&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/PAtreju/obiad_scraper">
-      <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=obiad_scraper&theme=tokyonight" />
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/PAtreju/Portfolio" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
+    <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=Portfolio&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PAtreju/IdeaLab" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
+    <img align="center" height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=IdeaLab&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PAtreju/File-Cipher" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
+    <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=File-Cipher&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/PAtreju/obiad_scraper" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
+    <img align="center" height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=obiad_scraper&theme=tokyonight" />
+  </a>
 </p>
+    
 ---
 
 ## 📊 GitHub stats & trophies
@@ -85,7 +82,8 @@
 
 ## 🧩 Experience snapshots
 - **Team Lead & Developer** — led school group projects (graded deliverables), coordinated tasks, and shipped under time pressure.  
-- **Hackathons** — **CodeCamp 2024 winner**; **Uzbekistan TechnoTour Guide (winner)**; **SealUp** showcased at an **EIT conference** (Warsaw).  
+- **Hackathons** — **CodeCamp 2024 winner**; **Uzbekistan TechnoTour Guide (winner)**.
+- **SealUp** - showcased at an **EIT conference** (Warsaw).  
 - **Full‑Stack Developer** — site development & maintenance for production projects.  
 - **Trainer (Parkour/Freerun)** — 2 years coaching kids & youth; 8 years of training.
 
