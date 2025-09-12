@@ -85,7 +85,6 @@
 - **Hackathons** — **CodeCamp 2024 winner**; **Uzbekistan TechnoTour Guide (winner)**.
 - **SealUp** - showcased at an **EIT conference** (Warsaw).  
 - **Full‑Stack Developer** — site development & maintenance for production projects.  
-- **Trainer (Parkour/Freerun)** — 2 years coaching kids & youth; 8 years of training.
 
 ---
 
@@ -105,7 +104,7 @@ Byłem **team leaderem** w wielu projektach szkolnych i hackathonach; współpra
 
 **Osiągnięcia:** zwycięski zespół **CodeCamp 2024**; projekt **SealUp** (aplikacja dot. zdrowia psychicznego — prezentacja na konferencji **EIT w Warszawie**); zwycięski zespół **Uzbekistan TechnoTour Guide** (aplikacja przewodnika z AI).
 
-**Doświadczenie:** Full‑stack dev (techniventures.com); trener Parkour/Freerun (8 lat treningu, 2 lata pracy z dziećmi i młodzieżą).
+**Doświadczenie:** Full‑stack dev (techniventures.com).
 
 **Stack:** Python, TypeScript, C++, Java, SQL, PHP • FastAPI, Django, React, Next.js, Tailwind • Git, Trello, Microsoft 365 • Agile/PM, dokumentacja, SDLC, podstawy CI/CD i testowania.
 </details>
