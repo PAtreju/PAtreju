@@ -82,8 +82,8 @@
 
 ## 🧩 Experience snapshots
 - **Team Lead & Developer** — led school group projects (graded deliverables), coordinated tasks, and shipped under time pressure.  
-- **Hackathons** — **CodeCamp 2024 winner**; **Uzbekistan TechnoTour Guide (winner)**.
-- **SealUp** - showcased at an **EIT conference** (Warsaw).  
+- **Hackathons** — **CodeCamp 2024 winner**; **Uzbekistan Techni Tour Guide (winner)**.
+- **SealUp** - start-up showcased at an **EIT conference** (Warsaw).  
 - **Full‑Stack Developer** — site development & maintenance for production projects.  
 
 ---
@@ -100,11 +100,10 @@
 
 **Jestem uczniem klasy 4 w Niepublicznym Technikum programistycznym Techni Schools w Lublinie.**  
 Od początku nauki pełnię funkcję przewodniczącego klasy i działam w samorządzie. Prowadziłem liczne wydarzenia w życiu szkoły.  
-Byłem **team leaderem** w wielu projektach szkolnych i hackathonach; współpracowałem z doświadczonymi programistami.
+Byłem **team leaderem** w wielu projektach szkolnych i hackathonach.
+**Osiągnięcia:** zwycięski zespół **CodeCamp 2024**; projekt **SealUp** (aplikacja dot. zdrowia psychicznego — prezentacja na konferencji **EIT w Warszawie**); zwycięski zespół **Uzbekistan Techni Tour Guide** (aplikacja przewodnika z AI).
 
-**Osiągnięcia:** zwycięski zespół **CodeCamp 2024**; projekt **SealUp** (aplikacja dot. zdrowia psychicznego — prezentacja na konferencji **EIT w Warszawie**); zwycięski zespół **Uzbekistan TechnoTour Guide** (aplikacja przewodnika z AI).
-
-**Doświadczenie:** Full‑stack dev (techniventures.com).
+**Doświadczenie:** Full‑stack developer (techniventures.com).
 
 **Stack:** Python, TypeScript, C++, Java, SQL, PHP • FastAPI, Django, React, Next.js, Tailwind • Git, Trello, Microsoft 365 • Agile/PM, dokumentacja, SDLC, podstawy CI/CD i testowania.
 </details>
