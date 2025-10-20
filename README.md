@@ -66,7 +66,7 @@
     <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=File-Cipher&theme=tokyonight" />
   </a>
   <a href="https://github.com/PAtreju/Movie-Library" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
-    <img align="center" height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=obiad_scraper&theme=tokyonight" />
+    <img align="center" height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=Movie-Library&theme=tokyonight" />
   </a>
 </p>
     
