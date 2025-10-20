@@ -51,7 +51,7 @@
   _Repo:_ <https://github.com/PAtreju/IdeaLab>
 - **File‑Cipher** — Python app for quick file encryption & upload to Google Drive.  
   _Repo:_ <https://github.com/PAtreju/File-Cipher>
-- **movies.shroomdev.pl** — MovieDB displaying information about movies and saving favorites using PostgreSQL.
+- **movies.shroomdev.pl** — MovieDB displaying information about movies and saving favorites using PostgreSQL.  
   _Repo:_ <https://github.com/PAtreju/Movie-Library>
 
 ### 📌 Pinned repo cards
