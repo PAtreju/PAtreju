@@ -51,8 +51,8 @@
   _Repo:_ <https://github.com/PAtreju/IdeaLab>
 - **File‑Cipher** — Python app for quick file encryption & upload to Google Drive.  
   _Repo:_ <https://github.com/PAtreju/File-Cipher>
-- **Lunch reminder** — scraper + notifier for catering; sends automatic Discord reminders.  
-  _Repo:_ <https://github.com/PAtreju/odibai_scraper>
+- **movies.shroomdev.pl** — MovieDB displaying information about movies and saving favorites using PostgreSQL.
+  _Repo:_ <https://github.com/PAtreju/Movie-Library>
 
 ### 📌 Pinned repo cards
 <p>
@@ -65,7 +65,7 @@
   <a href="https://github.com/PAtreju/File-Cipher" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
     <img height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=File-Cipher&theme=tokyonight" />
   </a>
-  <a href="https://github.com/PAtreju/obiad_scraper" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
+  <a href="https://github.com/PAtreju/Movie-Library" style="color:transparent;text-decoration:none;text-decoration-color:transparent;display:inline-block;line-height:0;">
     <img align="center" height="240" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PAtreju&repo=obiad_scraper&theme=tokyonight" />
   </a>
 </p>
